@@ -41,30 +41,21 @@ SARSは半年足らずで8000人以上に感染し、774人が死亡しました
 COVID-19と比較して、これらの類似ウイルスの流行は短かったか、小規模だったか、あるいはその両方でした。
 このことは、それら（の流行）から多くの情報が得られなかったことを意味するので、重要です。
 新型コロナウイルスの流行の根本的な問題は、あらゆる研究が過去4ヶ月間に行われたにもかかわらず、私たちはいまだ深遠な不確実性の領域から抜け出せていないということです。
+ゲノム上のことを除き、このウイルスがなぜ、他のコロナウイルスとこれほどまでに異なるのか分かっていません。
+症状のない人もいれば、すぐに発熱して死ぬ人もいます。肺炎、下痢、腎不全、血栓、脳卒中など、症状の幅が広いのはなぜなのか、判明していません。
+検査に熱心ではない国もあるので、実際何人に感染したのかは分かりません。どれくらいの人が回復したのかも。
+このようにデータのギャップがあるため、実際の死亡リスクは計算不可能です。症例死亡率は固定された数字ではなく、地域の人口動態や医療制度など、場所によって異なる要因に影響を受けることはあまり伝えられていません。
+症例死亡率は、小学校で習うような簡単な分数で、志望者数を感染者数で割ったものです。しかし、検査がうまく行われず感染者数が分からないなら、（正確な）死亡者数も分かりません。
+そうした不正確な集計を認めることが重要です。最終的な数字も不正確になるからです。
 
 
-
-We don't know, except in a gross genomic way, why this virus is so different from other
-coronaviruses.
-We don't know why it hits some people so much harder than others so that some experienced no
-symptoms, and others have quick fevers and still others die. We don't know why it has such a
-wide range of symptoms, from pneumonia to diarrhea to kidney failure to blood clots to strokes.
-We don't actually know how many people have been infected, because not every country is
-diligent with testing. We also don't know how many people have recovered. Because of those
-data gaps, we can't calculate what the actual risk of death was called the case-fatality rate maybe
-- and we haven't done a good job yet of articulating to the public that the case-fatality rate isn't a
-static number, but it is affected in different places by what your local demographics are like, or
-possibly what your health care system is like.
-Let's face it, "case fatality rate" is at base a pretty simple fraction of the kind we learned in
-primary school: deaths divided by cases. But if you don't know what the case count is, because
-of testing failures, you can't know what the death count is, for the same reason. And it's important
-to acknowledge those imprecise counts. Lead to imperfect final numbers. 
 Meanwhile, it's also important to acknowledge that almost all of the decisions that governments
 are making to this point are based on mathematical models, and those are based on assumptions
 and are necessarily imperfect as well. In the United States, one particular set of projections from
 the University of Washington has been very influential, but is being doubted now as the
 researchers my Maimuna Majumder from the U.S. and Devi Shridhar from the United Kingdom
 wrote recently in the British Medical Journal:.
+
 "Modeling is a necessary input to public policy decisions but should be taken as just one input
 among many... Leaders must consider the values, needs and preferences of their populations
 when deciding whether to follow it.".
